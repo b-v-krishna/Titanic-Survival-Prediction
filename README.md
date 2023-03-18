@@ -12,7 +12,7 @@ Before training the model, some preprocessing steps were performed on the datase
 <li>Categorical variables such as Sex and Embarked were one-hot encoded to convert them into numerical variables.</li>
 </ul>
 
-<h3>Data Visualization></h3>
+<h3>Data Visualization</h3>
 In data visualization we present a countplot of the number of survivors and non-survivors in the Titanic dataset. Countplot is a useful for displaying the distribution of a categorical variable. 
 <h3>Model Training</h3>
 The logistic regression model was trained using the preprocessed dataset. The training process involved splitting the dataset into a training set and a validation set, fitting the model on the training set, and evaluating its performance on the validation set.
